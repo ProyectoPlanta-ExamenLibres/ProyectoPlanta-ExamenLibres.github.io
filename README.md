@@ -11,6 +11,7 @@ Mi nombre es Esteban Andaluz, soy un estudiante de la EPN y me encuentro cursand
 ### Descripcción de la aplicación
 
 Los pequeños cultivos de los países como Ecuador no cuenta con la tecnología necesaria para que las producciones sean grandes y representen ingresos. De aquí sale la idea de ayudar, creando una aplicación en forma de guía para los pequeños emprendedores. En donde se detallarán los micro y macro nutrientes que un terreno necesita y toda esta guía será de acuerdo a los metros y a la ubicación geográfica sabiendo colocados por la persona que necesite de la ayuda. 
+
 ### Etiquetas o labels a utilizarse en el proyecto 
 
 - documentación: Mejoras o ideas para la documentación
@@ -22,6 +23,7 @@ Los pequeños cultivos de los países como Ecuador no cuenta con la tecnología 
 - question: preguntas
 
 ### Roles en el proyecto
+
 - Codificador: Se ecargará de codificar en el lenguaje a proponer
 - Documentación: Documentará el proyecto como se realizó
 - Bugs: Se encargará de revisar que el proyecto funcione de manera correcta
@@ -29,6 +31,7 @@ Los pequeños cultivos de los países como Ecuador no cuenta con la tecnología 
 - Usuarios: Personas que deseen utilizar la aplicación
 - Administrador: Se encargará de la gestión
 - Colabodres: Persona sque tengan ideas.
+
 ### Toma de decisiones
 
 Se aplicará una dictadura benevolente en donde el fundador tomará las decisiones para el proyecto.

@@ -27,6 +27,8 @@ Los pequeños cultivos de los países como Ecuador no cuenta con la tecnología 
 - Bugs: Se encargará de revisar que el proyecto funcione de manera correcta
 - Pruebas: Se encargará de realizar las pruebas unitarias y de integración
 - Usuarios: Personas que deseen utilizar la aplicación
+- Administrador: Se encargará de la gestión
+- Colabodres: Persona sque tengan ideas.
 ### Toma de decisiones
 
 Se aplicará una dictadura benevolente en donde el fundador tomará las decisiones para el proyecto.
